@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm <a href="/" target="blank">
 Suraj kumar</a></h1>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 <p align="center"">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=yellow&size=25&center=true&vCenter=true&width=600&height=60&lines=A+FullStack+Web+Developer.;A+Programmer;Computer+Science+Student.;Love+to+learn+new+stuffs..<3"></a>
+  <a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=yellow&size=25&center=true&vCenter=true&width=600&height=60&lines=A+FullStack+Web+Developer.;A+Programmer;Computer+Science+Student.;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" height="300" width="450" alt="Programmer GIF" src="https://png.pngtree.com/png-vector/20231214/ourmid/pngtree-young-programmer-writing-program-code-png-image_11353939.png">
+  <img align="right" height="270" width="400" alt="Programmer GIF" src="https://png.pngtree.com/png-vector/20231214/ourmid/pngtree-young-programmer-writing-program-code-png-image_11353939.png">
 </a>
 
 - 🌱 I’m Fullstack(MERN) web developer and a programmer.
@@ -15,8 +17,8 @@ Suraj kumar</a></h1>
 
 - 🌱 I’m currently learning DSA with Java and System Design(LLD).
   
-- 📝 I regularly sharing my learnings on <a href="https://www.linkedin.com/in/suraj-kumar-5b48b9254/" target="blank">Linkedin</a>
+- 📝 I regularly sharing my learnings on <a href="https://www.linkedin.com/in/suraj-kumar-5b48b9254/" target="blank">Linkedin</a>, so you can also visit my profile
 
 - 🤝 I’m available for freelancing.
 
-- 📫 How to reach me **suraj71308kumar@gmail.com**.
+- 📫 Feel free to reach me out **suraj71308kumar@gmail.com**.
