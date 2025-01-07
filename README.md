@@ -8,7 +8,7 @@ Suraj kumar</a></h1>
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" height="320" width="400" alt="Programmer GIF" src="https://png.pngtree.com/png-vector/20231214/ourmid/pngtree-young-programmer-writing-program-code-png-image_11353939.png">
+  <img align="right" height="320" width="300" alt="Programmer GIF" src="https://png.pngtree.com/png-vector/20231214/ourmid/pngtree-young-programmer-writing-program-code-png-image_11353939.png">
 </a>
 
 - 🌱 I’m Fullstack(MERN) web developer and a programmer.
