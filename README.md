@@ -30,7 +30,7 @@ Suraj kumar</a></h1>
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" width=260px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+  <img align="right" width=280px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 </a>
 
 - 🌱 I’m Fullstack(MERN) web developer and a programmer.
