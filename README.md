@@ -8,6 +8,7 @@ Suraj kumar</a></h1>
 <a align="left"><img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 55px><h2>About me</h2></a> 
 
 <p align="right" >
+  <a href="https://leetcode.com/u/Suraj_kr78/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/suraj-kumar-5b48b9254/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="suraj kr" height="30" width="40" /></a>
@@ -20,7 +21,6 @@ Suraj kumar</a></h1>
   <a href="https://www.facebook.com/Abhinav.Bhardwaj.02/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/Suraj_kr78/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
   <a href = "mailto: suraj71308kumar@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 
 </p>
