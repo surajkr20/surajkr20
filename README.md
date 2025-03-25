@@ -43,7 +43,7 @@ Suraj kumar</a></h1>
 
 - 🤝 I’m available for freelancing.
   
--  :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+-  :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1kwy3x2LxtTi88WpaX1XxbYpULqXVdrBi/edit?usp=drive_link&ouid=113721985667379019825&rtpof=true&sd=true).
 
 - 📫 Feel free to reach me out **suraj71308kumar@gmail.com**.
 
