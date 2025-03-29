@@ -49,7 +49,7 @@ Suraj kumar</a></h1>
 
 -  📜 Check out: [MY RESUME](https://drive.google.com/file/d/1kwy3x2LxtTi88WpaX1XxbYpULqXVdrBi/view).
   
-📢 I regularly share my learnings, projects, and experiences on [LinkedIn]:(https://www.linkedin.com/in/suraj-kumar-5b48b9254/).
+📢 I regularly share my learnings, projects, and experiences on [LinkedIn](https://www.linkedin.com/in/suraj-kumar-5b48b9254/).
 
 🚀 Follow my GitHub for new project updates & contributions.
 
