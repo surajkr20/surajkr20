@@ -5,10 +5,6 @@
 <h1 align="center">Hi 👋, I'm <a href="/" target="blank">
 Suraj kumar</a></h1>
 
-💻 Passionate about building scalable web applications and solving real-world problems with MERN stack & JavaScript technologies.
-
-🌱 Currently diving deep into DSA with Java & System Design (LLD) to strengthen my problem-solving skills.
-
 <a align="left"><img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 55px><h2>About me</h2></a> 
 
 <p align="right" >
@@ -37,17 +33,25 @@ Suraj kumar</a></h1>
   <img align="right" width=280px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 </a>
 
-- 🌱 I’m Fullstack(MERN) web developer and a programmer.
-  
-- 🔭 I’m currently working on my Upcoming fullstack projects and open source contribution, related to MERN stack & Javascript technologies.
+💻 Passionate about building scalable web applications and solving real-world problems with MERN stack & JavaScript technologies.
 
-- 🌱 I’m currently learning DSA with Java and System Design(LLD).
-  
-- 📝 I regularly sharing my learnings on <a href="https://www.linkedin.com/in/suraj-kumar-5b48b9254/" target="blank">Linkedin</a>, so you can also visit my profile
+🌱 Currently diving deep into DSA with Java & System Design (LLD) to strengthen my problem-solving skills.
 
-- 🤝 I’m available for freelancing.
+⚡ Building full-stack applications using MERN (MongoDB, Express.js, React.js, Node.js).
+
+🔥 Contributing to open-source projects and collaborating with the developer community.
+
+🎯 Exploring System Design to enhance my architectural knowledge.
+
+🔍 Open to freelancing and collaborations on exciting projects.
+
+🎯 Looking for a full-time job opportunity as a Full Stack Developer.
+
+-  📜 Check out: [MY RESUME](https://drive.google.com/file/d/1kwy3x2LxtTi88WpaX1XxbYpULqXVdrBi/view).
   
--  :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1kwy3x2LxtTi88WpaX1XxbYpULqXVdrBi/view).
+📢 I regularly share my learnings, projects, and experiences on LinkedIn.
+
+🚀 Follow my GitHub for new project updates & contributions.
 
 - 📫 Feel free to reach me out **suraj71308kumar@gmail.com**.
 
