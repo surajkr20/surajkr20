@@ -30,7 +30,7 @@ Suraj kumar</a></h1>
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" width=280px height=400px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+  <img align="right" width=310px height=400px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 </a>
 
 💻 Passionate about building scalable web applications and solving real-world problems with MERN stack & JavaScript technologies.
