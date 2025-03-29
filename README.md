@@ -5,6 +5,10 @@
 <h1 align="center">Hi 👋, I'm <a href="/" target="blank">
 Suraj kumar</a></h1>
 
+💻 Passionate about building scalable web applications and solving real-world problems with MERN stack & JavaScript technologies.
+
+🌱 Currently diving deep into DSA with Java & System Design (LLD) to strengthen my problem-solving skills.
+
 <a align="left"><img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 55px><h2>About me</h2></a> 
 
 <p align="right" >
