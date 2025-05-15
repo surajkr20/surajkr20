@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajkr20&label=Profile%20views&color=0e75b6&style=flat" alt="surajkr20" /> </p>
