@@ -8,29 +8,14 @@
 ---
 
 ## 🚀 About Me
+I'm a highly motivated software developer who loves solving real-world problems through code. With a strong grasp of the MERN Stack, Java, and Data Structures & Algorithms, I'm on a mission to become a world-class engineer and build scalable, intelligent applications. I believe in consistency, clean code, and continuous learning.
 
-- 🌱 I’m currently learning **Next.js, DSA with Java, and Low Level Design (LLD)**
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://surajkr20-porfolio.vercel.app/)
-- 📝 I regularly share learning updates on [**LinkedIn**](https://www.linkedin.com/in/suraj-kumar-5b48b9254/)
-- 💬 Ask me about **MERN stack, JavaScript, Java, DSA**
-- 📫 Reach me at **suraj71308kumar@gmail.com**
-- 📄 Know more: [**My Resume**](https://drive.google.com/file/d/1b9lRM0ko1b_Ib2lo1U0GbX7pca5p7p7R/view)
+## 📚 Currently Learning
+- 🚀 Next.js
+- 💻 Data Structures & Algorithms (Java)
+- ⚙️ Low-Level Design (LLD)
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/abhinav_suraj02" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav_suraj02?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/suraj-kumar-5b48b9254" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/abhinav.bhardwaaj" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/suraj_kr78" target="blank"><img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/suraj713apgg/" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-1f8a20?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
-</p>
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40" height="40" alt="JavaScript" />
@@ -49,6 +34,43 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
 </p>
+
+
+- ## 💬 Ask Me About
+- MERN Stack Development
+- Building Scalable Projects
+- Java & DSA Problem Solving
+- Backend APIs & RESTful Services
+
+- ## 🔥 Fun Fact
+I love working on real-world projects that can actually make life easier — and I dream of launching my own **tech startup** one day!
+  
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://surajkr20-porfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-MyPortfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1b9lRM0ko1b_Ib2lo1U0GbX7pca5p7p7R/view" target="_blank">
+    <img src="https://img.shields.io/badge/-MyResume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/suraj-kumar-5b48b9254" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/suraj_kr78" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/suraj713apgg/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-1F8A20?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/abhinav_suraj02" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/abhinav.bhardwaaj" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
