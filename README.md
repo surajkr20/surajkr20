@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhinav_suraj02" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav_suraj02?logo=twitter&style=for-the-badge" alt="abhinav_suraj02" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, LLD(Low Level Design)**
+- 🌱 I’m currently learning **Next.js, DSA with Java, LLD(Low Level Design)**
 
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://surajkr20-porfolio.vercel.app/)
 
