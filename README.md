@@ -17,7 +17,7 @@ I'm a highly motivated software developer who loves solving real-world problems 
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="left">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" height="40" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
