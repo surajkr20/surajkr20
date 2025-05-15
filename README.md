@@ -36,13 +36,13 @@ I'm a highly motivated software developer who loves solving real-world problems 
 </p>
 
 
-- ## 💬 Ask Me About
+## 💬 Ask Me About
 - MERN Stack Development
 - Building Scalable Projects
 - Java & DSA Problem Solving
 - Backend APIs & RESTful Services
 
-- ## 🔥 Fun Fact
+## 🔥 Fun Fact
 I love working on real-world projects that can actually make life easier — and I dream of launching my own **tech startup** one day!
   
 ## 🌐 Connect With Me
