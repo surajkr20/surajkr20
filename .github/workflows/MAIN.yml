@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -11,17 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      - name: Generate snake animation
+        uses: Platane/snk@generated  # ← switch to `@generated` branch!
         with:
           github_user_name: surajkr20
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake SVG to output branch
+      - name: Publish to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
