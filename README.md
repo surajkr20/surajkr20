@@ -11,7 +11,6 @@
 I'm a highly motivated software developer who loves solving real-world problems through code. With a strong grasp of the MERN Stack, Java, and Data Structures & Algorithms, I'm on a mission to become a world-class engineer and build scalable, intelligent applications. I believe in consistency, clean code, and continuous learning.
 
 ## 📚 Currently Learning
-- 🚀 Next.js
 - 💻 Data Structures & Algorithms (Java)
 - ⚙️ Low-Level Design (LLD)
 
