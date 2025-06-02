@@ -13,6 +13,8 @@ I'm a highly motivated software developer who loves solving real-world problems 
 ## 📚 Currently Learning
 - 💻 Data Structures & Algorithms (Java)
 - ⚙️ Low-Level Design (LLD)
+- Fullstack Projects: fullstack uber_clone(ongoing)
+- cs fundamentals: os(ongoing)
 
 ## 🛠️ Tech Stack & Skills
 
