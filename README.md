@@ -52,7 +52,7 @@ I love working on real-world projects that can actually make life easier — and
   <a href="https://surajkr20-porfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-MyPortfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1b9lRM0ko1b_Ib2lo1U0GbX7pca5p7p7R/view" target="_blank">
+  <a href="https://drive.google.com/drive/u/1/home" target="_blank">
     <img src="https://img.shields.io/badge/-MyResume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/suraj-kumar-5b48b9254" target="_blank">
