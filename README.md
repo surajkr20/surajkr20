@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Suraj Kumar</h1>
-<h3 align="center">🚀 Passionate Software Engineer | MERN Stack Developer | Java & DSA Enthusiast</h3>
+<h3 align="center">🚀 Passionate Software developer | MERN Stack Developer | Java & DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=surajkr20&label=Profile%20views&color=0e75b6&style=flat" alt="surajkr20" />
@@ -8,13 +8,13 @@
 ---
 
 ## 🚀 About Me
-I'm a highly motivated software developer who loves solving real-world problems through code. With a strong grasp of the MERN Stack, Java, and Data Structures & Algorithms, I'm on a mission to become a world-class engineer and build scalable, intelligent applications. I believe in consistency, clean code, and continuous learning.
+I'm a passionate software developer focused on solving real-world problems through code. With hands-on experience in the MERN Stack, Java, and Data Structures & Algorithms, I enjoy building scalable and efficient applications.
+Currently exploring full-stack development and AI integration, I believe in clean code, consistency, and continuous learning—the foundation of becoming a world-class engineer.
 
 ## 📚 Currently Learning
 - 💻 Data Structures & Algorithms (Java)
 - ⚙️ Low-Level Design (LLD)
-- Fullstack Projects: fullstack uber_clone(ongoing)
-- cs fundamentals: os(ongoing)
+- GenAi with Node.js
 
 ## 🛠️ Tech Stack & Skills
 
